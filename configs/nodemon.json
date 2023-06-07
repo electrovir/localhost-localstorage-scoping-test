@@ -1,0 +1,7 @@
+{
+    "watch": ["./src/"],
+    "ignore": ["*.test.ts"],
+    "exitcrash": false,
+    "ext": "js,json,html,css,ts,tsx,jsx",
+    "exec": "npm run build"
+}
